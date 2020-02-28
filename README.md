@@ -1,4 +1,5 @@
-[![Build status](https://travis-ci.org/viljamis/vue-design-system.svg?branch=master)](https://travis-ci.org/viljamis/vue-design-system/) ![Dependencies status](https://david-dm.org/viljamis/vue-design-system.svg) ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg) [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/vueds/Lobby)
+Testing setup of a Vue Design System project in Circle CI
+------------
 
 # Vue Design System
 
